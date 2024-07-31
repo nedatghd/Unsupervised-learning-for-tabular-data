@@ -1,1 +1,2 @@
-A good model have low inercia and a low number of clusters when it comes to use kmeans algorithm.
+"A good model has low inertia and a low number of clusters when using the K-means algorithm."
+
